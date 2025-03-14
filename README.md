@@ -39,7 +39,7 @@ Welcome to the Rust4Noobs Wiki! This repository contains all the content for our
 The wiki is organized into categories, each containing multiple articles:
 
 ```
-/wiki/
+/wiki/ (Not part of this repository, but needed for image references!)
 ├── monuments/
 │   ├── launch-site.md
 │   ├── military-tunnels.md
