@@ -98,7 +98,7 @@ More content...
 
 3. **Include Relevant Images**
    - Add screenshots or diagrams that help explain concepts
-   - Place them in the appropriate `/wiki/image/` subdirectory
+   - Place them in the appropriate `/image/` subdirectory
    - Reference them using proper Markdown syntax (see below)
 
 ## Adding Images
@@ -114,17 +114,9 @@ More content...
 
 If you want to create a new category:
 
-1. Create a new folder in the `/wiki/` directory with a lowercase, hyphenated name
+1. Create a new folder in the root directory with a lowercase, hyphenated name
 2. Create at least one article in the new category
-3. Create a corresponding image folder in `/wiki/image/`
-
-## Testing Your Changes
-
-The Rust4Noobs website automatically rebuilds when changes are merged into the main branch. However, you may want to preview your changes locally:
-
-1. Follow the setup instructions in the main [README.md](../README.md) to set up the development environment
-2. Start the development server
-3. Visit the wiki pages to see your changes
+3. Create a corresponding image folder in `/image/`
 
 ## Code of Conduct
 
@@ -137,7 +129,7 @@ The Rust4Noobs website automatically rebuilds when changes are merged into the m
 
 If you have questions about contributing:
 
-- Join our [Discord server](https://discord.gg/rust4noobs)
+- Join our [Discord server](https://discord.gg/r4n)
 - Open an issue on the GitHub repository
 - Contact us through our [website](https://4noobs.co/contact)
 
