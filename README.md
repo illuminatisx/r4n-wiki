@@ -131,6 +131,5 @@ If you have questions about contributing:
 
 - Join our [Discord server](https://discord.gg/r4n)
 - Open an issue on the GitHub repository
-- Contact us through our [website](https://4noobs.co/contact)
 
 Thank you for helping make the Rust4Noobs Wiki a valuable resource for the community! 
