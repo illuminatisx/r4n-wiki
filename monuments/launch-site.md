@@ -9,7 +9,7 @@ dateUpdated: 2025-03-14
 
 ## Overview
 
-The Launch Site is one of the most high-tier monuments in Rust, offering exceptional loot but also significant danger. For new players, this monument can be intimidating but extremely rewarding. The monument features a large rocket, a main building complex, and several auxiliary structures. The area has high radiation levels, especially near the rocket, requiring proper protection.
+The Launch Site is one of the most high-tier monuments in Rust, offering exceptional loot but also significant danger. For new players, this monument can be intimidating but extremely rewarding. The monument features a large rocket, a main building complex, and several auxiliary structures. The area has high radiation levels, especially near the rocket, requiring proper protection. And do not forget the roaming Bradley APC.
 
 ![Launch Site Overview with Rocket and Tower](/wiki/image/monuments/launch-site-overview.jpg)
 
@@ -26,24 +26,27 @@ If you're new to Rust, here's what you should know about the Launch Site:
 
 To successfully loot the Launch Site, you will need:
 
-- **Radiation protection**: A Hazmat suit (30% radiation protection) is the minimum requirement. For areas near the rocket, you may need additional protection like anti-radiation pills
+- **Radiation protection**: A Hazmat suit or armor totalling up to 25 radiation protection is the minimum requirement. For areas like the red card room, you may need additional protection like anti-radiation pills
 - **Red keycard**: Required for accessing the main building's elite crate room
 - **Blue keycard**: Needed for the red card puzzle sequence
 - **Green keycard**: Required to start the puzzle sequence
 - **Fuses**: At least 2-3 fuses (they can break during use)
 - **Weapons**: At minimum, a semi-automatic rifle or comparable weapon
-- **Medical supplies**: At least 3-5 medical syringes and bandages
+- **Medical supplies**: At the very least 3-5 medical syringes and bandages
 - **Food and water**: For extended looting sessions
+- **Backpack**: If you plan on taking down the Bradley APC as well
 
 ## Radiation Zones
 
 As a new player, understanding radiation is crucial at the Launch Site:
 
-- **Low radiation**: Outer perimeter and warehouses (0-5 rads)
-- **Medium radiation**: Main building and surrounding areas (5-15 rads)
-- **High radiation**: Rocket area and certain interior sections (15+ rads)
+- **Low radiation**: Outer perimeter and warehouses
+- **Medium radiation**: Main building and surrounding areas
+- **High radiation**: Rocket area and certain interior sections like the red card room
 
-Without protection, you'll take damage rapidly in medium and high radiation zones. Your radiation level appears as a yellow indicator on your HUD.
+Without protection, you'll take damage rapidly in medium and high radiation zones. Your radiation level appears as a red indicator on your HUD above your vital stats.
+
+![Radiation damage indicator](/wiki/image/monuments/rads.webp)
 
 ## Monument Layout
 
@@ -61,15 +64,17 @@ For new players, the warehouses are the safest starting point to learn the monum
 
 For beginners, here's a step-by-step guide to completing the card puzzle:
 
-1. **Locate the Green Card Room**: Enter the main building through the ground floor entrance and find the green keycard door (typically on the south side)
-2. **Access Green Room**: Use your green keycard on the reader next to the door, then quickly enter before it closes
-3. **Find the Timer and Fusebox**: Inside the green room, locate the fusebox on the wall
-4. **Insert Fuse**: Place a fuse in the fusebox and press the button to activate the power
-5. **Locate Blue Card Room**: Find the staircase to the second floor and locate the blue card door
-6. **Access Blue Room**: Use your blue keycard to enter (you have limited time before the power runs out)
-7. **Find the Second Fusebox**: Inside the blue room, locate another fusebox and insert a fuse
-8. **Locate Red Card Room**: Go to the top floor of the building to find the red card door
-9. **Access Elite Crate Room**: Use your red keycard to enter the final room containing elite crates
+1. **Find building 011**: Go to the green building labeled with '011' near the rocket and flip the switch inside
+2. **To the stone building**: Run past the rocket and find the stone building with a metal ramp, go down the stairs and into the room on the left and flip the switch
+3. **Scaffolding**: Run to the rocket scaffolding and drop down the hole
+4. **Life or death**: Jump across the ledge, activate the timer and go through the doorway
+5. **Life or death 2, electric boogaloo**: Now jump across the beams to the other side and press the red button
+6. **Loot part 1**: Grab the loot inside and press the other button to get out
+7. **To the silos**: Run to the building with the green door near the 3 silos, open the door with your green card, input a fuse and flip the switch
+8. **More running**: Go to the far side of the monument to the building with the 2 blue containers across from the silos
+9. **Going inside**: Go inside the building and you'll find another fuse box, add in your fuse and flip the switch
+10. **Back to the jungle**: Now exit the building and run to the large central building and find the red door
+11. **Into the belly of the beast**: Use your red card, enter the building, survive and loot everything you can!
 
 The entire puzzle should be completed within 3-4 minutes before fuses expire.
 
@@ -95,6 +100,7 @@ For new players looking to maximize their loot runs:
 ### Bradley APC Loot
 - When destroyed, the Bradley drops 3-4 crates with high-tier weapons, armor and components
 - **Warning**: Destroying Bradley requires launcher weapons and attracts significant attention
+- **Warning**: When Bradley gets damaged, it will spawn multiple heavily armed guards
 
 ## Scientists and NPCs
 
@@ -104,7 +110,7 @@ The Launch Site is patrolled by hostile NPCs:
 - **Heavy Scientists**: Sometimes spawn near the elite crate room, heavily armored with better weapons
 - **Bradley APC**: An armored vehicle that patrols the central area, equipped with a cannon and machine gun
 
-For new players, scientists can be avoided by crouching and moving slowly around corners.
+For new players, scientists can be avoided by crouching and moving slowly around corners. Learn the patrol routes!
 
 ## Dangers and Threats
 
@@ -123,7 +129,7 @@ Beyond radiation, be aware of:
 - **Quick Looting**: Have a planned route and don't linger too long
 - **Escape Routes**: Plan multiple paths to leave the monument quickly
 - **Time Management**: Dawn/dusk runs offer better visibility for you while making it harder for snipers
-- **Bradley Timing**: The Bradley respawns approximately 30 minutes after being destroyed
+- **Bradley Timing**: The Bradley respawns approximately 1 hour after being destroyed
 - **Partner System**: Bring a friend to watch your back while looting
 - **Stash Strategy**: Consider hiding a stash with backup gear nearby in case you die
 
@@ -135,4 +141,4 @@ Beyond radiation, be aware of:
 - **Overloading**: Know when to leave with your loot rather than getting greedy
 - **Poor Planning**: Have all keycards and tools ready before starting the puzzle
 
-Remember that mastering the Launch Site takes practice. Don't be discouraged by initial failures - each run teaches you valuable lessons about one of Rust's most rewarding monuments. 
+Remember that mastering the Launch Site takes practice. Don't be discouraged by initial failures as each run teaches you valuable lessons about one of Rust's most rewarding monuments.
