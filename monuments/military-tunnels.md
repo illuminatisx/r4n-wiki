@@ -17,7 +17,7 @@ The Military Tunnels is a medium-sized underground monument that offers excellen
 
 If you're new to Rust, here's what you should know about the Military Tunnels:
 
-- This is a **mid-tier monument** with good loot and moderate difficulty
+- This is a **tier 3 monument** with good loot and moderate difficulty
 - The underground layout can be confusing until you learn the paths
 - Scientist NPCs pose a significant threat but are predictable
 - This monument is excellent for learning PvE combat before facing real players
@@ -30,44 +30,44 @@ To fully explore the Military Tunnels, you will need:
 - **Green keycard**: Required for the first door of the puzzle
 - **Blue keycard**: Needed for the second stage of the puzzle
 - **Red keycard**: Needed if you want all the loot from this monument
-- **Fuses**: At least 2-3 fuses (they sometimes break during use)
+- **Fuses**: At least 2 fuses (they sometimes break during use)
 - **Radiation protection**: Average protection (25) is sufficient for most areas
 - **Weapons**: At minimum, a revolver or semi-automatic pistol, but a semi-automatic rifle is recommended
-- **Medical supplies**: 3-5 medical syringes at minimum or enough bandages
+- **Medical supplies**: 6-8 medical syringes at minimum and several bandages for bleeding
 - **Weapon flashlight attachment**: The tunnels can be very dark
+- **Good armour**: The tunnel scientists deal more damage than regular scientists
 
 ## Radiation Zones
 
-Military Tunnels has relatively low radiation compared to other monuments:
+Military Tunnels has medium level radiation compared to other monuments:
 
 - **Surface area**: Very minimal radiation
-- **Main tunnels**: Low radiation
+- **Main tunnels**: Moderate radiation
 - **Lower tunnels**: Moderate radiation in some sections
 
-Most players can explore with just a hazmat suit or basic radiation protection clothing.
+Most players can explore with just a hazmat suit or medium radiation protection clothing.
 
 ## Detailed Monument Layout
 
 Understanding the layout is crucial for navigating efficiently:
 
 ### Surface Level
-- **Main Entrance**: Large opening in the mountain with a road leading in
+- **Main Entrance**: Large opening in the mountain with a road leading in guarded by a single scientist
 - **Loading Dock**: Area with shipping containers and basic loot
 
 ### Upper Tunnels
 - **Administration Area**: Contains offices and the green keycard room
 - **Barracks**: Contains regular loot and scientist spawns
-- **Mess Hall**: Area with tables and food crates
 
 ### Lower Tunnels
 - **Research Labs**: Contains the blue keycard door and scientific equipment
 - **Storage Area**: Contains military crates and resources
 - **Elite Loot Room**: Final destination after solving the puzzle
+- **Train cars**: Contain multiple elite crates (keycard not required)
 
 ### Special Areas
-- **Recycler Room**: Contains a recycler for processing components
+- **Recycler Room**: Contains a recycler for processing components on the surface
 - **Generator Room**: Contains the fusebox for the puzzle
-- **Water Treatment Section**: Flooded area with some loot
 - **Labratory**: The heart of the monument with all the juicy loot
 
 ## Scientist Locations
@@ -104,23 +104,22 @@ For new players looking to maximize their loot runs:
 - **Offices**: Regular crates containing components and occasional weapons
 - **Green Card Room**: Military crate and tool boxes
 
-### Barracks Area
-- **Sleeping Quarters**: Regular crates with clothing and basic components
-- **Armory Lockers**: Military crates with weapons and ammunition
+### Train car
+- **Mid-tunnel car**: Elite crates with tier 3 loot, no keycard required.
 
 ### Research Labs
 - **Lab Rooms**: Regular crates with components and medical supplies
 - **Secure Storage**: Military crates behind the blue card door
 
 ### Elite Loot Room
-- **Final Room**: 2-3 elite crates, military crates, and sometimes an airdrop crate
+- **Final Room**: 2-3 elite crates, military crates.
 - **Side Storage**: Additional military crates in adjacent rooms
 
 ## Common Threats and Dangers
 
 Beyond scientists, be aware of:
 
-1. **Other Players**: Military Tunnels is popular for its loot-to-danger ratio
+1. **Other Players**: Military Tunnels is popular for its loot-to-danger ratio, some players may be able to hear gunshots.
 2. **Disorientation**: The tunnel layout can be confusing for new players
 3. **Ambushes**: The many corners and dark areas are perfect for player ambushes
 4. **Limited Exits**: Knowing escape routes is crucial when confronted
@@ -132,6 +131,7 @@ Beyond scientists, be aware of:
 1. **Stealth Approach**: Move slowly, take out scientists one by one with silenced weapons
 2. **Quick In-and-Out**: Focus only on the puzzle and elite room, ignore other loot
 3. **Perimeter Looting**: Just loot the surface and entrance areas for safer returns
+4. **Preparation**: Take out scietnsits guarding the tunnels before running the puzzle.
 
 ### Group Strategy (2-3 Players)
 1. **Cover Formation**: One player watches while others loot or handle the puzzle
@@ -143,14 +143,12 @@ Beyond scientists, be aware of:
 - **Sound Awareness**: Listen carefully - footsteps echo in the tunnels
 - **Map Learning**: Draw or memorize the layout after each visit
 - **Scientist Patterns**: Learn where scientists spawn and their patrol routes
-- **Weapon Choice**: Silenced weapons are crucial to avoid attracting attention
 - **Light Discipline**: Turn your flashlight off when not needed to avoid detection
-- **Recycler Usage**: The recycler inside is relatively safe compared to other monuments
 - **Stashing Loot**: Consider temporarily stashing valuable loot outside before making the final exit
 
 ## Common Mistakes to Avoid
 
-- **Underestimating Scientists**: They can be deadly in groups, especially in confined spaces
+- **Underestimating Scientists**: Tunnel scientists do significantly more damage than regular scientists.
 - **Running Out of Ammo**: Bring more than you think you'll need
 - **Forgetting Fuses**: Always bring multiple fuses in case one breaks
 - **Getting Lost**: Pay attention to landmarks and signs within the tunnels
