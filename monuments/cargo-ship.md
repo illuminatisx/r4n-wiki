@@ -30,21 +30,21 @@ If you're new to Rust, here's what you should know about the Cargo Ship:
 
 To fully explore the Cargo Ship, you will need:
 
-- **Weapons**: High-tier weapons (AK-47, LR-300, or better)
+- **Weapons**: Medium tier weapons (Semi-automatic rifle, Thompson etc)
 - **Medical supplies**: 5-10 medical syringes and enough bandages
-- **Water transportation**: Boat, RHIB, or minicopter
+- **Water transportation**: Boat, RHIB, any aircraft, paddle board.
 - **Group members**: Highly recommended for new players
-- **Backpack**: Since you will be able to loot a lot of items, a backpack isn't a luxury
+- **Backpack**: Since you will be able to loot a lot of items, a backpack can be helpful.
 
 ## Crate Mechanics
 
 The Cargo Ship's locked crates are a key feature:
 
-- **Crate Locations**: 3 locked crates spawn on the ship
+- **Crate Locations**: 4 locked crates spawn on the ship
 - **Hacking Process**:
   - Takes 15 minutes to complete
   - Progress is shown via a timer
-  - Cannot be interrupted or the timer resets
+  - The fourth crate will spawn when docked in harbour.
 - **Loot Tables**:
   - Military grade weapons
   - High-tier armor
@@ -59,10 +59,10 @@ Understanding the timing is crucial:
 1. **Spawn**: Ship appears with loud horn signal
 2. **Active Period**: ~50 minutes of sailing
 3. **Crate spawn indication**: The ship will sound its horn 3 times when a locked crate spawns
-4. **Warning**: Ship horn signals departure
+4. **Warning**: Ship siren sound/lights signal departure
 5. **Departure Phase**:
    - Heavy radiation begins
-   - Ship disappears from map
+   - Ship starts moving outside of marked route.
 
 ## Radiation Mechanics
 
@@ -71,29 +71,27 @@ The Cargo Ship has unique radiation mechanics:
 - **While Ship is Active**: No radiation on the ship
 - **After Ship Leaves**: 
   - Radiation quickly increases
-  - Can be deadly if not prepared
+  - Will be deadly regardless of radiation protection.
 
 ## Detailed Monument Layout
 
 Understanding the layout is crucial for survival:
 
-### Bow Section
-- **Helipad**: Alternative entry/exit point
-- **Bridge**: Contains important loot and scientists
-- **Crew Quarters**: Contains regular loot
-- **Locked Crate Spawn**: Common crate location
-
-### Cargo Holds
-- **Main Cargo Area**: Contains basic loot and resources
-- **Storage Areas**: Various loot and components
-- **Locked Crate Spawn**: Common crate location
-- **Container Areas**: Good cover during fights
-
 ### Stern Section
-- **Engine Room**: Contains important loot
+- **Bridge**: Contains important loot and scientists, ideal for defending the ship.
+- **RHIB**: Has a RHIB with 50 low grade for quick escape.
 - **Locked Crate Spawn**: Common crate location
-- **Crane Control**: Good vantage point for sniping
-- **Lower Deck**: Additional loot spawns
+
+### Cargo Hold (two sections)
+- **Scientists**: There are two scientists guarding this section.
+- **Storage Area**: Various loot and components
+- **Locked Crate Spawn**: Common crate location
+- **Container Areas**: Good cover during fights or sneaking aboard.
+
+### Bow Section
+- **Crows nest**: Guarded by one scientist, good for early spotting of enemies.
+- **Locked Crate Spawn**: Common crate location
+- **Landing space**: Good location to land a larger aircraft.
 
 ## Scientist Locations
 
@@ -105,11 +103,11 @@ Scientists in Cargo Ship are numerous and well-armed:
 - **Upper deck infront of the bridge**: 1 scientist
 - **Lower deck infront of the bridge**: 1 scientist
 - **Middle of upper deck, near containers**: 2 scientists
-- **Near / On crows nest**: 1 scientist
+- **On crows nest**: 1 scientist
 - **Passageways on lower deck**: 2 scientists
 - **Blow deck**: 2 scientists
 
-Making for a total of **13** scientists. Keep in mind that the main threat of this monument comes from other players or: "Counters" rather than the PVE element.
+Making for a total of **13** scientists. Keep in mind that the main threat of this monument comes from other players or: "Counters" rather than the PvE element.
 
 ## Loot Locations (Detailed)
 
@@ -132,7 +130,7 @@ For new players looking to maximize their loot runs:
 Beyond scientists, be aware of:
 
 1. **Other Players**: Cargo Ship is highly contested
-2. **Counter Raiders**: Players often wait for others to complete hacks
+2. **"Grubs"**: Players often wait for others to complete hacks
 3. **Limited Cover**: Many open areas on deck
 4. **Hack Timer**: 15-minute vulnerability period
 
@@ -153,7 +151,7 @@ Beyond scientists, be aware of:
 - **Sound Awareness**: Listen for footsteps and gunfire
 - **Map Learning**: Study the layout from safe positions
 - **Scientist Patterns**: Learn spawn points and patrol routes
-- **Weapon Choice**: High-tier weapons are essential
+- **Weapon Choice**: High-tier weapons are ideal
 - **Hack Timing**: Start hacks early in ship's cycle
 - **Emergency Exit**: Know multiple escape routes
 - **Counter Defense**: Watch for counter raiders
@@ -161,21 +159,17 @@ Beyond scientists, be aware of:
 
 ## Common Mistakes to Avoid
 
-- **Poor Timing**: Don't start hacks too late in cycle
+- **Poor Timing**: Don't start hacks too late in circuit
 - **Poor Weapon Choice**: Bring the best weapons available
 - **Inadequate Supplies**: Bring extra ammo and medical supplies
-- **Getting Lost**: Pay attention to landmarks
 - **Solo Attempts**: Avoid solo runs until very experienced
-- **Poor Transportation**: Always have a backup escape plan
-- **Hack Interruption**: Don't let hack timer reset
 
 ## Alternative Entry Methods
 
 Besides the main entrance, consider:
 
-1. **Helipad Landing**: Quick but exposed
-2. **Side Climbing**: Using terrain elevation
+1. **Bow landing**: Plenty of space
+2. **Paddle board**: Using the DLC item to position yourself in the way of the ships route.
 3. **RHIB Approach**: Fast and maneuverable
-4. **Multiple Entry Points**: Split team entry
 
 The Cargo Ship represents one of Rust's most unique and challenging monuments. While extremely dangerous, mastering it will make you a much more capable player. Start with group runs and gradually work up to more advanced strategies as you gain experience. 
