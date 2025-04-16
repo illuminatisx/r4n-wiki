@@ -4,154 +4,123 @@ description: Comprehensive beginner's guide to the Military Tunnels monument inc
 author: Illuminatixs
 authorLink: https://github.com/illuminatisx
 dateCreated: 2025-03-14
-dateUpdated: 2025-03-14
+dateUpdated: 2025-04-17
 ---
 
 ## Overview
 
-The Military Tunnels is a medium-sized underground monument that offers excellent loot opportunities for new and experienced players alike. This network of tunnels carved into a mountain houses military-grade loot guarded by armed scientists. For new players, it presents a good balance of risk and reward compared to larger monuments.
+The Military Tunnels is a medium-sized underground monument that offers excellent loot opportunities for both new and experienced players. Carved into a mountain, it features military-grade loot guarded by armed tunnel scientists. The tunnels provide a strong balance of risk and reward, making it a great stepping stone before attempting high-risk monuments like Launch Site.
 
 ![Military Tunnels](/wiki/image/monuments/military-tunnels.jpg)
 
 ## For New Players
 
-If you're new to Rust, here's what you should know about the Military Tunnels:
+Key facts to know:
 
-- This is a **tier 3 monument** with good loot and moderate difficulty
-- The underground layout can be confusing until you learn the paths
-- Scientist NPCs pose a significant threat but are predictable
-- This monument is excellent for learning PvE combat before facing real players
-- The tunnels provide natural protection from other players
+- **Tier 3 monument** with excellent loot and moderate difficulty.
+- The underground layout is complex but manageable with practice.
+- **Scientist NPCs** are dangerous but follow predictable routes.
+- Offers strong **PvE experience** and natural protection from surface PvP.
+- **Ideal training ground** for developing combat and puzzle-solving skills.
 
 ## Requirements
 
-To fully explore the Military Tunnels, you will need:
+To fully explore and loot Military Tunnels:
 
-- **Green keycard**: Required for the first door of the puzzle
-- **Blue keycard**: Needed for the second stage of the puzzle
-- **Red keycard**: Needed if you want all the loot from this monument
-- **Fuses**: At least 2 fuses (they sometimes break during use)
-- **Radiation protection**: Average protection (25) is sufficient for most areas
-- **Weapons**: At minimum, a revolver or semi-automatic pistol, but a semi-automatic rifle is recommended
-- **Medical supplies**: 6-8 medical syringes at minimum and several bandages for bleeding
-- **Weapon flashlight attachment**: The tunnels can be very dark
-- **Good armour**: The tunnel scientists deal more damage than regular scientists
+- **Keycards**: Green, Blue, and Red keycards.
+- **Fuses**: At least 2 (they may break or expire).
+- **Radiation Protection**: 25+ (hazmat suit or equivalent).
+- **Weapons**: Semi-auto rifle or better recommended.
+- **Medical Supplies**: 6–8 syringes and extra bandages.
+- **Flashlight Attachment**: Crucial due to low visibility.
+- **Armor**: Tunnel scientists hit harder than standard NPCs.
 
 ## Radiation Zones
 
-Military Tunnels has medium level radiation compared to other monuments:
+- **Surface Area**: Minimal radiation.
+- **Main Tunnels**: Moderate radiation in specific zones.
+- **Lower Tunnels**: Moderate radiation; hazmat suit is sufficient.
 
-- **Surface area**: Very minimal radiation
-- **Main tunnels**: Moderate radiation
-- **Lower tunnels**: Moderate radiation in some sections
-
-Most players can explore with just a hazmat suit or medium radiation protection clothing.
-
-## Detailed Monument Layout
-
-Understanding the layout is crucial for navigating efficiently:
+## Monument Layout
 
 ### Surface Level
-- **Main Entrance**: Large opening in the mountain with a road leading in guarded by a single scientist
-- **Loading Dock**: Area with shipping containers and basic loot
+- **Main Entrance**: Road entrance with a scientist guard.
+- **Loading Dock**: Basic loot and crates near shipping containers.
+- **Recycler Room**: Located on the surface for recycling loot.
 
 ### Upper Tunnels
-- **Administration Area**: Contains offices and the green keycard room
-- **Barracks**: Contains regular loot and scientist spawns
+- **Administration Area**: Includes offices and the green card room.
+- **Armoury**: Moderate loot and frequent scientist patrols.
 
 ### Lower Tunnels
-- **Research Labs**: Contains the blue keycard door and scientific equipment
-- **Storage Area**: Contains military crates and resources
-- **Elite Loot Room**: Final destination after solving the puzzle
-- **Train cars**: Contain multiple elite crates (keycard not required)
+- **Research Labs**: Houses blue card door and scientific equipment.
+- **Storage Area**: Military crates and resource loot.
+- **Elite Loot Room**: Final reward area after puzzle.
+- **Train Cars**: Contains elite crates; no keycard required.
+- **Generator Room**: Puzzle fuse box located here.
 
 ### Special Areas
-- **Recycler Room**: Contains a recycler for processing components on the surface
-- **Generator Room**: Contains the fusebox for the puzzle
-- **Labratory**: The heart of the monument with all the juicy loot
+- **Labratory**: Core loot zone with top-tier rewards.
 
 ## Scientist Locations
 
-Scientists in Military Tunnels follow patrol patterns:
+Scientist NPCs appear in predictable roles:
 
-- **Entrance Guards**: 2-3 scientists near the main entrance
-- **Tunnel Patrols**: Groups of 1-2 scientists walking predetermined routes
-- **Static Guards**: Scientists standing guard at key locations like the blue card room
-- **Elite Room Guards**: 2-3 scientists guarding the final loot room
+- **Entrance Guards**: 2–3 near the main entrance.
+- **Tunnel Patrols**: Roam in pairs or solo.
+- **Static Guards**: Posted near keycard doors.
+- **Elite Room Guards**: Defend final loot area.
 
-## Puzzle Solution (Detailed Steps)
+> The scientists guarding the elite room can have shotguns. Be wary of bleeding damage/close range engagement.
 
-For beginners, here's a comprehensive guide to completing the card puzzle:
+## Puzzle Walkthrough (Step-by-Step)
 
-1. **The beginning**: Take the right door at the front entrace and take a right
-2. **The armory**: Find a door marked with a sign "Armory" to the right of it
-3. **Entering the armory**: Now go down the hall and head into the first door on the right, find the fuse box and start the timer
-4. **Heading back**: Head back out the way you came and down the tunnel as it curves right and look for a hole in the fence on the left
-5. **Through the hole**: Now go through the hole in the fence and take a left and look for a door marked "storage" and open it.
-6. **Flippin nice**: Head in and head to the right, you should see a switch labeled "Laboratory" you need to flip it
-7. **Heading back out again**: Now head back out and go left towards the center of the core and loot the elite crates in the rail car
-8. **Moving on**: Now exit the rail car and head towards your right and keep going until you see a blue door marked "Laboratory"
-9. **Blue and red**: Open the blue door and then the red door that has a short timer attached to it
-10. **Loot acquired**: Loot the main loot room and look for the quick exit on your left.
+1. **Start** at the main entrance, take the **right tunnel**, and follow it right again.
+2. Look for a door marked **"Armory"**—enter the hallway and use the **fuse box** inside.
+3. **Activate the timer** and exit back to the main tunnel.
+4. Follow the tunnel until you find a **hole in the fence** on your left—go through it.
+5. Turn left and locate the **door marked "Storage"**, then enter.
+6. Inside, flip the **switch labeled "Laboratory"**.
+7. Exit the room and head toward the **rail car area** to loot **elite crates**.
+8. Continue toward the **blue door labeled "Laboratory"**, then open the **red door** inside.
+9. Loot the final **elite room**. Look for a **quick exit on the left**.
 
-The entire puzzle must be completed within about 2-3 minutes before fuses expire.
+> ⏱️ Complete this sequence within 2–3 minutes or the fuses will expire.
 
-## Loot Locations (Detailed)
-
-For new players looking to maximize their loot runs:
+## Loot Locations
 
 ### Administration Area
-- **Offices**: Regular crates containing components and occasional weapons
-- **Green Card Room**: Military crate and tool boxes
+- **Offices**: Regular crates with scrap and basic gear.
+- **Green Card Room**: Toolboxes and 1–2 military crates.
 
-### Train car
-- **Mid-tunnel car**: Elite crates with tier 3 loot, no keycard required.
+### Train Cars
+- **Mid-Tunnel Car**: Elite crates with tier 3 loot, no puzzle needed.
 
 ### Research Labs
-- **Lab Rooms**: Regular crates with components and medical supplies
-- **Secure Storage**: Military crates behind the blue card door
+- **Lab Rooms**: Components and medical supplies.
+- **Secure Storage**: Military crates behind blue card door.
 
 ### Elite Loot Room
-- **Final Room**: 2-3 elite crates, military crates.
-- **Side Storage**: Additional military crates in adjacent rooms
+- 2–3 **elite crates** and military crates, plus side storage with extra loot.
 
-## Common Threats and Dangers
+## Common Dangers
 
-Beyond scientists, be aware of:
+- **Players**: The monument is dark in many places; expect ambushes.
+- **Disorientation**: Layout can confuse unprepared players.
+- **Tight Corners**: Easy to get flanked or surprised.
+- **Escape Limitations**: Few exits mean careful planning is needed.
+- **Puzzle Timer**: Keep moving to beat fuse expiration.
 
-1. **Other Players**: Military Tunnels is popular for its loot-to-danger ratio, some players may be able to hear gunshots.
-2. **Disorientation**: The tunnel layout can be confusing for new players
-3. **Ambushes**: The many corners and dark areas are perfect for player ambushes
-4. **Limited Exits**: Knowing escape routes is crucial when confronted
-5. **Time Pressure**: The puzzle requires quick movement once started
+## Looting Strategies
 
-## Looting Strategies for Beginners
+### Solo Players
+- **Stealth**: Use silenced weapons and avoid unnecessary fights.
+- **Quick Runs**: Focus only on elite room and puzzle completion.
+- **Surface Loot**: Safer alternative with less confrontation.
+- **Prep Kills**: Clear tunnel scientists before starting puzzle.
 
-### Solo Strategy
-1. **Stealth Approach**: Move slowly, take out scientists one by one with silenced weapons
-2. **Quick In-and-Out**: Focus only on the puzzle and elite room, ignore other loot
-3. **Perimeter Looting**: Just loot the surface and entrance areas for safer returns
-4. **Preparation**: Take out scietnsits guarding the tunnels before running the puzzle.
-
-### Group Strategy (2-3 Players)
-1. **Cover Formation**: One player watches while others loot or handle the puzzle
-2. **Divide and Conquer**: Split up to handle different sections simultaneously
-3. **Relay System**: Pass keycards and fuses to the player moving toward the elite room
-
-## Tips & Tricks for New Players
-
-- **Sound Awareness**: Listen carefully - footsteps echo in the tunnels
-- **Map Learning**: Draw or memorize the layout after each visit
-- **Scientist Patterns**: Learn where scientists spawn and their patrol routes
-- **Light Discipline**: Turn your flashlight off when not needed to avoid detection
-- **Stashing Loot**: Consider temporarily stashing valuable loot outside before making the final exit
-
-## Common Mistakes to Avoid
-
-- **Underestimating Scientists**: Tunnel scientists do significantly more damage than regular scientists.
-- **Running Out of Ammo**: Bring more than you think you'll need
-- **Forgetting Fuses**: Always bring multiple fuses in case one breaks
-- **Getting Lost**: Pay attention to landmarks and signs within the tunnels
-- **Lingering Too Long**: The longer you stay, the more likely other players will arrive
+### Groups (2–3 Players)
+- **Cover Each Other**
+- **Guard entrances/exits**
 
 Military Tunnels is an excellent "stepping stone" monument for new players looking to progress beyond basic monuments but not yet ready for high-risk areas like Launch Site. Master it, and you'll develop skills applicable to all of Rust's more challenging locations. 
