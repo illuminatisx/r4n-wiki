@@ -19,13 +19,13 @@ Rust features a wide range of weapons, from primitive to military-grade:
 
 ### Melee Weapons
 - **Rock**: Starting tool, poor weapon but better than nothing
-- **Bone Knife**: Fast, cheap weapon with decent damage
+- **Bone Knife**: Fast, cheap weapon with okay damage
 - **Salvaged Cleaver**: Strong melee option for early game
 
 ### Primitive Ranged
 - **Hunting Bow**: First ranged weapon, effective at medium range
-- **Crossbow**: Improved damage and accuracy over bow
-- **Compound Bow**: Powerful when fully drawn, requires standing still
+- **Crossbow**: Improved damage and accuracy over bow but slow to reload
+- **Compound Bow**: Powerful when fully drawn, requires standing still and a bit of skill
 
 ### Firearms
 - **Eoka Pistol**: Unreliable single-shot handgun
@@ -36,7 +36,7 @@ Rust features a wide range of weapons, from primitive to military-grade:
 - **Python Revolver**: High damage, accurate revolver
 - **Semi-Auto Rifle (SAR)**: Reliable mid-tier rifle
 - **Thompson/Custom SMG**: Fast-firing close-range weapons
-- **Assault Rifle**: Highest tier, difficult recoil pattern
+- **Assault Rifle**: Highest tier, difficult to control
 
 **New Player Tip**: Master primitive weapons before relying on firearms. Bows are silent and cost-effective.
 
@@ -72,16 +72,17 @@ Damage in Rust is affected by multiple factors:
 3. **Peek Shooting**: Expose yourself minimally while shooting
 4. **Sound Discipline**: Crouch-walk to reduce noise
 5. **Prefire Common Spots**: Shoot at likely hiding positions
+6. **Keep your gun up**: Do not aim for the feet, go for the body or the head
 
 ## Managing Recoil and Aim
 
-Each weapon has a unique recoil pattern:
+Each weapon has a unique recoil pattern and a bunch of randomness:
 
 - **Tap Firing**: Press and release for single shots (better accuracy)
 - **Burst Firing**: 2-3 quick shots then pause (balance of speed/accuracy)
 - **Spray Control**: Pull down and compensate for horizontal recoil
 
-**Practice Tip**: Join a combat practice server with targets to learn recoil patterns.
+**Practice Tip**: Join a combat practice server with targets to get a feeling for the gun of your choice.
 
 ## Understanding Projectile Physics
 
@@ -90,25 +91,24 @@ Rust has realistic projectile behavior:
 - **Bullet Drop**: Bullets fall over distance
 - **Travel Time**: Projectiles are not instant
 - **Leading Targets**: Aim ahead of moving targets
-- **Penetration**: Some materials can be shot through
 
 ## Common Combat Mistakes
 
 - Engaging multiple enemies alone
 - Fighting with insufficient healing items
-- Standing still while shooting
+- Standing still too much while shooting
 - Reloading in the open
 - Using the wrong weapon for the distance
 - Looting bodies immediately after a kill
 - Ignoring footstep sounds
 - Fighting without a respawn point nearby
+- Fighting without an escape route ready
 
 ## Improving Your Combat Skills
 
 1. **Join Combat Servers**: Dedicated servers for practice
 2. **Record Gameplay**: Review your deaths to learn
-3. **Learn Recoil Patterns**: Practice controlling each weapon
-4. **Study Base Defense**: Learn common raid tactics
-5. **Practice with Friends**: Set up 1v1 situations
+3. **Study Base Defense**: Learn common raid tactics
+4. **Practice with Friends**: Set up 1v1 situations
 
-Remember that combat in Rust has a steep learning curve. Even experienced players die frequently, so don't get discouraged by defeats. Focus on improvement rather than perfect survival. 
+Remember that combat in Rust has a steep learning curve. Even experienced players die frequently, so don't get discouraged by defeats. Focus on improvement rather than perfect survival.
