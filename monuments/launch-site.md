@@ -17,7 +17,7 @@ The Launch Site is one of the most high-tier monuments in Rust, offering excepti
 
 If you're new to Rust, here's what you should know about the Launch Site:
 
-- This is considered an **end-game monument** with the best loot but highest risk
+- This is considered an **tier 3 monument** with some of the best loot but highest risk
 - Expect to encounter experienced players here frequently
 - Consider visiting during off-peak hours when the server has fewer players
 - Use this monument to learn about high-tier gameplay, but don't get discouraged if you die frequently
@@ -26,7 +26,7 @@ If you're new to Rust, here's what you should know about the Launch Site:
 
 To successfully loot the Launch Site, you will need:
 
-- **Radiation protection**: A Hazmat suit or armor totalling up to 25 radiation protection is the minimum requirement. For areas like the red card room, you may need additional protection like anti-radiation pills
+- **Radiation protection**: A Hazmat suit or armor totalling up to 25 radiation protection is the minimum requirement. For areas like the red card room, you may need additional protection like anti-radiation pills/water
 - **Red keycard**: Required for accessing the main building's elite crate room
 - **Blue keycard**: Needed for the red card puzzle sequence
 - **Green keycard**: Required to start the puzzle sequence
@@ -53,9 +53,9 @@ Without protection, you'll take damage rapidly in medium and high radiation zone
 The Launch Site consists of several key areas:
 
 1. **Main Building Complex**: Multi-story structure with the card puzzle and elite loot
-2. **Rocket Area**: High radiation zone with good loot but dangerous exposure
+2. **Rocket Area**: High radiation zone with moderate loot but dangerous exposure
 3. **Warehouses**: Multiple storage buildings with moderate loot and minimal radiation
-4. **Bradley Patrol Zone**: Central area where the Bradley APC patrols
+4. **Bradley Patrol route**: Central area and a road ring around the rocket area where the Bradley APC patrols
 5. **External Compounds**: Smaller buildings around the perimeter with basic loot
 
 For new players, the warehouses are the safest starting point to learn the monument.
@@ -84,21 +84,20 @@ For new players looking to maximize their loot runs:
 
 ### Main Building
 - **Ground Floor**: Military crates in maintenance rooms (medium-tier loot)
-- **Second Floor**: Scientist offices with regular crates (medium-tier loot)
-- **Top Floor**: Elite crate room (high-tier loot, requires red keycard)
-- **Roof Access**: Military crate sometimes spawns on the roof
+- **Gangways**: Scientists with basic medical/ammo loot, and military crates.
+- **Roof**: Elite crates spawn here around the helicopter wreckage
 
 ### Rocket Area
 - **Base of Rocket**: Multiple military crates (high radiation warning!)
 - **Scaffolding**: Tool crates and occasional military crates
 
 ### Warehouses
-- **Northern Warehouse**: 2-3 regular crates, good for components
+- **Northern Warehouse**: 3-4 regular crates, good for components
 - **Eastern Warehouses**: Multiple regular and occasional military crates
 - **Southern Storage**: Good for barrels and basic resources
 
 ### Bradley APC Loot
-- When destroyed, the Bradley drops 3-4 crates with high-tier weapons, armor and components
+- When destroyed, the Bradley drops 4 crates with high-tier weapons, armor and components
 - **Warning**: Destroying Bradley requires launcher weapons and attracts significant attention
 - **Warning**: When Bradley gets damaged, it will spawn multiple heavily armed guards
 
@@ -106,8 +105,8 @@ For new players looking to maximize their loot runs:
 
 The Launch Site is patrolled by hostile NPCs:
 
-- **Regular Scientists**: Found throughout the monument, armed with pistols and rifles
-- **Heavy Scientists**: Sometimes spawn near the elite crate room, heavily armored with better weapons
+- **Regular Scientists**: Found throughout the monument, armed with MP5s and rifles.
+- **Heavy Scientists**: Spawned after bradley APC is damaged.
 - **Bradley APC**: An armored vehicle that patrols the central area, equipped with a cannon and machine gun
 
 For new players, scientists can be avoided by crouching and moving slowly around corners. Learn the patrol routes!
