@@ -8,7 +8,6 @@ dateUpdated: 2025/03/22
 ---
 ## Overview
 
-The Nuclear Missile Silo is one of Rust's newest monuments. 
 It provides a unique experience with multiple levels, dangerous NPCs, and an interesting backstory. 
 It's also the only monument showing the endgame event device and shows the server's wipe cycle.
 
@@ -27,16 +26,13 @@ If you are new to Rust, here's what you should know about the Missile Silo:
 To be able to explore the Missile Silo it is highly recommended you bring:
 - Atleast 12 Medical Syringes
 - 6-9 Bandages
-- Weapon: High-tier (Ak, MP5) with Extended Magazine and Weapon Flashlight (on full health)
+- Weapon: High-tier (Ak, MP5) with Weapon Flashlight.
 - 200+ Ammunition rounds that matches your gun.
 - Armor Kit with high Projectile Damage and Radiation Protection of at least 25 is needed
 - 1 Blue Keycard
-- 10 Flashbangs – Efficient against Scientists can also help
 - Backpack for extra storage
 
 ## Monument Layout: Above Ground
-
-### Surface Level Contains
 
 **Propane Tank Trailer & Guard Tower**
 The first two buildings are just in front of 3 decorative propane tanks.
@@ -272,3 +268,4 @@ Congratulations you made it successfully. Head back home with all your riches!!!
 ## Few Notes & Tips
 - People can enter the monument when you are running it if they also have a blue card, so keep your eyes on swivel.
 - If you die, to get back in, you will need another blue card.
+- Silo scientists can be armed with shotguns that can afflict high damage/bleeding at close range.
