@@ -1,7 +1,7 @@
 ---
 title: Cargo Ship
 description: Comprehensive beginner's guide to the Cargo Ship monument including layout, event mechanics, and survival strategies for new Rust players.
-author: Illuminatixs
+author: Illuminatixs & Featherfall
 authorLink: https://github.com/illuminatisx
 dateCreated: 2025-03-14
 dateUpdated: 2025-04-17
