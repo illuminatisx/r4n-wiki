@@ -1,5 +1,5 @@
 ---
-title: Military Tunnels
+title: Train Yard
 description: Comprehensive beginner's guide to the Train Yard monument including layout and loot positions for new players.
 author: Featherfall
 authorLink: https://github.com/Featherfal
