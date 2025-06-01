@@ -9,7 +9,7 @@ dateUpdated: 2025-04-17
 
 ## Overview
 
-![Train Yard](/wiki/image/monuments/train-yard-title.jpg)
+![Train Yard](/wiki/image/monuments/train-yard-title.png)
 
 Train yard is a **Tier 2** monument that has a train track that passes directly through the middle if the map has tracks enabled. This monument can also be used to unload train cargo.
 
@@ -28,27 +28,27 @@ You will need 25% radiation protection to run this monument.
 
 ## Monument Layout
 
-![Train Yard](/wiki/image/monuments/train-yard-aerial.jpg)
+![Train Yard](/wiki/image/monuments/train-yard-aerial.png)
 
 ### Unloader
 - **Entrance**: This requires a green card to access.
 - **Control board**: Climb up the ladder inside, and you will find a fuse box, and three buttons to the right. Place a fuse inside the box, and the buttons will now allow you to move your train cars forward/backwards, and unload their contents into the hopper.
 - **Hopper/skip**: At the bottom of the ladder, to the right of the entrance, there is a yellow skip, you can use this to retrieve the contents of your train car.
 
-![Train Yard](/wiki/image/monuments/train-yard-unloader.jpg)
+![Train Yard](/wiki/image/monuments/train-yard-unloader.png)
 
 ### Recycler building
 - **Ground floor**: 1-2 loot crates.
 - **Second floor**: First puzzle switch, on the green generator control panel.
 - **Third floor**: Two scientist guards, with a recycler and loot crate.
 
-![Train Yard](/wiki/image/monuments/train-yard-recycler.jpg)
+![Train Yard](/wiki/image/monuments/train-yard-recycler.png)
 
 ### Quarry tower
 - **Ground floor**: A scientist guard, and a light switch.
 - **Top floor**: Second puzzle switch, on the metal balcony, loot crate.
 
-![Train Yard](/wiki/image/monuments/train-yard-tower.jpg)
+![Train Yard](/wiki/image/monuments/train-yard-tower.png)
 
 ### Main building
 - **Ground floor**: Empty
@@ -57,7 +57,7 @@ You will need 25% radiation protection to run this monument.
 - **Fourth floor**: Blue card room, 6-8 loot crates (on timer), red card (on desk).
 - **Roof**: Empty (good vantage point)
 
-![Train Yard](/wiki/image/monuments/train-yard-main.jpg)
+![Train Yard](/wiki/image/monuments/train-yard-main.png)
 
 ## Puzzle Walkthrough (Step-by-Step)
 
