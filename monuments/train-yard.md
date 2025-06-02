@@ -3,8 +3,8 @@ title: Train Yard
 description: Comprehensive beginner's guide to the Train Yard monument including layout and loot positions for new players.
 author: Featherfall
 authorLink: https://github.com/Featherfal
-dateCreated: 2025-03-14
-dateUpdated: 2025-04-17
+dateCreated: 2025-06-01
+dateUpdated: 2025-06-02
 ---
 
 ## Overview
@@ -71,28 +71,37 @@ You will need 25% radiation protection to run this monument.
 ## Loot overview
 
 ### Main building
-- **8-10** normal crates.
-- **5-7** green crates.
+- **8-10~**: normal crates.
+- **5-7~**: green crates.
+
+Total possible crates: 11
 
 ### Quarry tower
-- **1-2** normal crates.
+- **1-2**: normal crates.
 - **1~**: green crates.
+- **1**: medical/food crate.
+
+Total possible crates: 2
 
 ### Recycler building
 - **1-2**: normal crates.
 - **1~**: green crate.
 
+Total possible crates: 2
+
 ### Surroundings
 >Including loading cranes, containers and train cars.
 
-- **3-5** normal crates.
-- **1~** green crate.
+- **3-5**: normal crates.
+- **1~**: green crate.
+
+Total possible crates: 6
 
 ## Noteworthy
 
 ## Unloader
 This feature can be useful when you need large quantities of low grade fuel, or ore materials. This is the only location on the map you are able to unload train cars, this can mean increased traffic to this monument. If the map has no train tracks generated, this will not be an issue.
 
-## Locked crate
+### Locked crate
 Train yard is a common drop location for the locked crate, it will drop in the center of the monument, next to the car park. There are a variety of good locations to watch over from, including the top of the main building, or the water tower.
 
